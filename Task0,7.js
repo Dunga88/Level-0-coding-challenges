@@ -1,7 +1,7 @@
 //Task 0.7
 // Celsius to Fahrenhiet
-function CF(celsius) 
-{
+function CF(celsius) {
+
   var cTemp = celsius;
   var cToFahr = cTemp * 9 / 5 + 32;
   var message = cTemp +' degrees celsius is '+ cToFahr + ' degrees fahrenhiet.';

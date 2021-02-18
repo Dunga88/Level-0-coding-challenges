@@ -1,5 +1,5 @@
-var s1 = "house";
-var s2 = "computers";
+let s1 = "house";
+let s2 = "computers";
 
 function common_Letter() {
     var dict = {};
